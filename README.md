@@ -12,6 +12,8 @@ In this track, I learnt how to import, clean, manipulate, and visualize data—a
 - The GitHub History of the Scala Language
 - Predicting Credit Card Approvals
 
+## Certificate:
+<img align='center' src="DS_P.jpg">
 [Credential](https://www.datacamp.com/statement-of-accomplishment/track/c01d8331d681e1ccd7a6a2f3883b579b7c14fdef)
 
 [Data Camp Profile](https://www.datacamp.com/profile/nowshadrobiulh)
